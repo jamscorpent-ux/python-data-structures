@@ -1,3 +1,4 @@
+[![Docker Build & Test](https://github.com/jamscorpent-ux/python-data-structures/actions/workflows/python-app.yml/badge.svg)](https://github.com/jamscorpent-ux/python-data-structures/actions/workflows/python-app.yml)
 # Hash Table Implementation (Python)
 
 A custom implementation of a **Hash Table** data structure built from scratch in Python. This implementation handles key-value pairs and manages potential hash collisions using a chaining approach (nested dictionaries).
