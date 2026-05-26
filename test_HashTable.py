@@ -1,5 +1,5 @@
 import unittest
-from hash_table import HashTable # Pastikan nama fail anda hash_table.py
+from HashTable import HashTable # Pastikan nama fail anda hash_table.py
 
 class TestHashTable(unittest.TestCase):
     def setUp(self):
